@@ -21,3 +21,9 @@ A [multinomial logistic model](02%20iris/classification.ipynb) for the `iris` da
 A [Fourier analysis model](03%20keeling/periodic.ipynb) for the Mauna Loa CO<sub>2</sub> data (the `Keeling curve`)
 
 ![keeling curve](03%20keeling/monthly_var.svg)
+
+## Time series modeling with heteroskedastic data
+
+A [hierarchical time series model](04%20air-politution/air-polution.ipynb) with log-normal likelihood for air polution data in Skopje.
+
+![log-normal time-series](04%20air-politution/pm10.svg)
