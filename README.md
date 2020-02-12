@@ -27,3 +27,10 @@ A [Fourier analysis model](03%20keeling/periodic.ipynb) for the Mauna Loa CO<sub
 A [hierarchical time series model](04%20air-politution/air-polution.ipynb) with log-normal likelihood for air polution data in Skopje.
 
 ![log-normal time-series](04%20air-politution/pm10.svg)
+
+
+## Inference with weights on observed data
+
+A [simple example using Potential](05%20weighted%20observations/potential-example.ipynb) for inference with data with weights
+
+![large poisson dataset](05%20weighted%20observations/poisson_large.png)
