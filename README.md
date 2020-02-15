@@ -34,3 +34,9 @@ A [hierarchical time series model](04%20air-politution/air-polution.ipynb) with 
 A [simple example using Potential](05%20weighted%20observations/potential-example.ipynb) for inference with data with weights
 
 ![large poisson dataset](05%20weighted%20observations/poisson_large.png)
+
+## Monotone dependency modeling
+
+A [simple example using Dirichlet prior](06%20monotone/monotone-dirichlet.ipynb) for modeling of monotone dependency
+
+![monotone dependency](06%20monotone/monotone.svg)
