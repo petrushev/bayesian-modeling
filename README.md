@@ -40,3 +40,9 @@ A [simple example using Potential](05%20weighted%20observations/potential-exampl
 A [simple example using Dirichlet prior](06%20monotone/monotone-dirichlet.ipynb) for modeling of monotone dependency
 
 ![monotone dependency](06%20monotone/monotone.svg)
+
+## Slow evolving multiplicative factor - Covid-19 Rt model
+
+A [model for estimation of the Rt reproductive factor for Covid-19](07%20covid19/simple-MK.ipynb), modeled with Random walks in the log scale.
+
+![covid 19 Rt factor](07%20covid19/mk_daily_R_en.png)
